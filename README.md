@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jeevan-a24.vercel.app/portfolio](https://portfolio-jeevan-a24.vercel.app/portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-jeevan-a24.vercel.app/portfolio](https://portfolio-jeevan-a24.vercel.app/)
 
 - 💬 Ask me about **React, Material Ui, Tailwind Css, Redux, HTML,CSS, Javascript, Node Js**
 
