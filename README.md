@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I am funy**
 
-<h3 align="left">Connect with me:jeevukulal96@gmail.com || 8618415611</h3>
+<h3 align="left">Connect with me: **jeevukulal96@gmail.com** || **8618415611**</h3>
 <p align="left">
 </p>
 
