@@ -17,8 +17,14 @@
 
 - ⚡ Fun fact **I think I am funy**
 
-<h3 align="left">Connect with me: </h3>
-**jeevukulal96@gmail.com** || **8618415611**
+<h3 align="left">
+  Connect with me: 
+  <a href="mailto:jeevukulal96@gmail.com"><strong>jeevukulal96@gmail.com</strong></a> 
+  || 
+  <a href="tel:+918618415611"><strong>8618415611</strong></a>
+</h3>
+
+
 <p align="left">
 </p>
 
