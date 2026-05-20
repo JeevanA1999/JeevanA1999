@@ -1,32 +1,149 @@
 <h1 align="center">Hi 👋, I'm Jeevan A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Engineer | React & Next.js Developer | Full-Stack Enthusiast</h3>
 
-- 🔭 I’m currently working on [FineBank](https://finebank-io-livid.vercel.app/)
-
-- 🌱 I’m currently learning **Express Js**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-jeevan-a24.vercel.app/](https://portfolio-jeevan-a24.vercel.app/)
-
-- 💬 Ask me about **React, Material Ui, Tailwind Css, Redux, HTML,CSS, Javascript, Node Js**
-
-- 📫 How to reach me **jeevukulal96@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13wFw2vzYuRn5zKV8G6UIekZTRIJPTKaX/view?usp=drivesdk](https://drive.google.com/file/d/13wFw2vzYuRn5zKV8G6UIekZTRIJPTKaX/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think I am funy**
-
-<h3 align="left">
-  Connect with me: 
-  <a href="mailto:jeevukulal96@gmail.com"><strong>jeevukulal96@gmail.com</strong></a> 
-  || 
-  <a href="tel:+918618415611"><strong>8618415611</strong></a>
-</h3>
-
-
-<p align="left">
+<p align="center">
+  Building scalable, high-performance web applications with modern frontend technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 💼 Frontend Engineer with nearly 4 years of experience in product-based applications
+- ⚛️ Specialized in **React.js, Next.js, TypeScript, Redux, and modern UI architectures**
+- 🔥 Passionate about performance optimization, reusable components, and scalable systems
+- 🌱 Currently learning **Node.js, Express.js, and backend architecture**
+- 👯 Open to collaborating on **Frontend & Full-Stack Projects**
+- 📍 Based in Karnataka, India
+
+---
+
+## 🌐 Portfolio & Profiles
+
+- 👨‍💻 Portfolio: [portfolio-jeevan-a-v2.vercel.app](https://portfolio-jeevan-a-v2.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/jeevan-a](https://www.linkedin.com/in/jeevan-a/)
+- 📂 GitHub: [github.com/JeevanA1999](https://github.com/JeevanA1999)
+- 📫 Email: **jeevukulal96@gmail.com**
+- 📞 Contact: **8618415611**
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Patient Tracker PHI
+Modern healthcare patient management platform with dashboards, tracking, and responsive UI.
+
+🔗 Live: https://patient-tracker-phi.vercel.app/
+
+**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS
+
+---
+
+## 💳 FineBank.IO
+A modern banking dashboard with analytics, expense tracking, transactions, and financial insights.
+
+🔗 Live: https://finebank-io-q3dk.vercel.app/
+
+**Tech Stack:** React, Material UI, Charts.js
+
+---
+
+## 📊 Admin Dashboard
+Advanced admin dashboard with analytics, charts, user management, and reusable components.
+
+🔗 Live: https://vitejs-vite-uayajych.vercel.app/
+
+**Tech Stack:** React, Material UI, Chart.js
+
+---
+
+## 🏨 Hotel Room Booking
+Responsive hotel booking platform with room browsing and reservation management.
+
+🔗 Live: https://hotel-booking-sooty.vercel.app/
+
+**Tech Stack:** React, HTML5, CSS3
+
+---
+
+## 🪙 Coin Trace
+Cryptocurrency tracker with live market data and portfolio analytics.
+
+🔗 Live: https://coin-trace-h6my.vercel.app/
+
+**Tech Stack:** React, CoinGecko API, Chart.js
+
+---
+
+## 📰 News Nexus
+News aggregation platform with category filtering and bookmarking functionality.
+
+🔗 GitHub: https://github.com/JeevanA1999/NewsNexusOne/
+
+**Tech Stack:** React, Redux Toolkit, Tailwind CSS
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+### Backend & Database
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40"/>
+<img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 📈 Current Focus
+
+- ⚡ Frontend Performance Optimization
+- 🧩 Component Architecture & Design Systems
+- 🔄 Full-Stack Development with MERN Stack
+- 🧪 Testing with Jest & Playwright
+- 🚀 Scalable React & Next.js Applications
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="mailto:jeevukulal96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jeevan-a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JeevanA1999">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐️ From [JeevanA1999](https://github.com/JeevanA1999)
